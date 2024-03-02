@@ -42,4 +42,3 @@ public class DashboardPage {
         return Integer.parseInt(value);
     }
 }
-
